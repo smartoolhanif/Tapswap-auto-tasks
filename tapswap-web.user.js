@@ -7,9 +7,9 @@
 // @match        *://*.tapswap.*/*
 // @grant        none
 // @icon         https://i.postimg.cc/7LJ24T7F/tapsw-aplogo.png
-// @downloadURL  https://github.com/sizifart/TapswapAutoTaskClaimer/raw/main/tapswap-web.user.js
-// @updateURL    https://github.com/sizifart/TapswapAutoTaskClaimer/raw/main/tapswap-web.user.js
-// @homepage     https://github.com/sizifart/TapswapAutoTaskClaimer
+// @downloadURL  https://github.com/smartoolhanif/Tapswap-auto-tasks/raw/main/tapswap-web.user.js
+// @updateURL    https://github.com/smartoolhanif/Tapswap-auto-tasks/raw/main/tapswap-web.user.js
+// @homepage     https://github.com/smartoolhanif/Tapswap-auto-tasks
 // ==/UserScript==
 (function() {
     'use strict';
